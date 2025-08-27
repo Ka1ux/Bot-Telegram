@@ -1,0 +1,4 @@
+requests
+pillow
+moviepy
+python-telegram-bot
